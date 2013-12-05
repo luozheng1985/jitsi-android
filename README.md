@@ -2,6 +2,9 @@ Jitsi for Android is an Android port of the Jitsi project: The most feature-rich
 
 Usage
 -----------
+#### add luozheng 1985
+how to build this project? see here!!!!! 
+-----------------------------------------------
 
 After updating library bundles, when building for the first time or after clean
     ant setup-libs
@@ -17,3 +20,5 @@ To make and run the project after modification
 References
 ----------
 * [Jitsi homepage](https://jitsi.org/)
+
+
